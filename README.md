@@ -12,3 +12,5 @@ Note: You will need OpenAI API key to use this APP.
 # Run:
 1. To download top relevant papers:\
 python3 relevant_papers.py
+
+You can check the frequency of each paper found in top_rel_papers.json file
