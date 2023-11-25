@@ -1,0 +1,1 @@
+{"detr": 20, "faster r-cnn": 22, "panoptic feature pyramid networks": 3, "fpn": 1, "panoptic segmentation": 6, "bert": 1, "mask r-cnn": 2, "generalized intersection over union": 1, "resnet-50": 1, "attention augmented convolutional networks": 1, "transformer": 1, "panopticfpn": 2, "attention is all you need": 1, "iou": 1, "giou": 1}

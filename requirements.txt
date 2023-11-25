@@ -1,0 +1,15 @@
+beautifulsoup4
+requests
+wget
+PyMuPDF
+torch
+transformers
+openai
+gpt4all
+unidecode
+numpy
+pandas
+qdrant-client
+sentence-transformers
+faiss-cpu
+evadb==0.3.7
