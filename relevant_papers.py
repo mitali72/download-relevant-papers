@@ -137,7 +137,6 @@ Next you are provided a page from a research paper. Your goal is to find the 3 m
 
         print(gen_dataset.iloc[0]["chatgpt.response"])
         resps_dataset.append(gen_dataset.iloc[0]["chatgpt.response"])
-        break
     
     resps = {"papers": resps_paper, "tools": resps_tool, "datasets": resps_dataset}
     # resps = {"papers": resps_paper}
